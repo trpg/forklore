@@ -11,4 +11,5 @@ _分岐スル物語_
 ## Contents
 - [イントロダクション](Introduction.md)
 - [コアルール](Core.md)
+  - [シーンのサンプル](Sample.md)
 - [エクステンション](Extension.md)
