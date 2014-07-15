@@ -26,5 +26,5 @@ _分岐スル物語_
 - ロールではなく選択
 
 ## Thanks to :
-- [array_cats](http://news-from-nochet.blogspot.jp/2014/06/heroquest1.html)
+- [alley_cats](http://news-from-nochet.blogspot.jp/2014/06/heroquest1.html)
 - [玄兎](http://analogrpg.net/)
