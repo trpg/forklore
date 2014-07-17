@@ -5,7 +5,6 @@ _分岐スル物語_
 
 レイヤードアーキテクチャによって薄いシナリオ層とセッション層のみを持ち単体でも遊べますが、エクステンションの一つ、「アダプタ」を採用することで既存システムのラッパとして機能し、合わせて遊ぶことも出来ます。
 
-- __現時点では、一般への公開（転載、URLの開示等）を禁止します（まあGithubに上げといで何言ってる、ってかんじですが）。__
 - 現状では、テーブルトークロールプレイングゲームやナラティヴについてある程度の知識のある方を対象にした記述になっています。ナラティヴについては、[ノチェット便り: HeroQuest紹介(1) - はじめに](http://news-from-nochet.blogspot.jp/2014/06/heroquest1.html)を参照。
 - “Forklore” は「分岐スル物語」を意味する造語で、”Forklore” のスペルミスではありません。
 
@@ -25,7 +24,8 @@ _分岐スル物語_
 - ロールではなく選択
 
 ## License
-[Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+- [Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+- 氷川 霧霞 作『Forklore』はクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスで提供されています。
 
 ## Thanks to :
 - [alley_cats](http://news-from-nochet.blogspot.jp/2014/06/heroquest1.html)
