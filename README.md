@@ -24,6 +24,9 @@ _分岐スル物語_
   - エクステンションによる拡張（背景設定、ランダマイザ、ハック、アダプタ）
 - ロールではなく選択
 
+## License
+[Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+
 ## Thanks to :
 - [alley_cats](http://news-from-nochet.blogspot.jp/2014/06/heroquest1.html)
 - [玄兎](http://analogrpg.net/)
