@@ -27,8 +27,7 @@ _分岐スル物語_
   - エクステンションによる拡張（ランダマイザ、ハック、アダプタ）
 
 ## License
-- [Creative Commons BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
-- 氷川 霧霞 (@kilica) 作『Forklore』はクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスで提供されています。
+今のところクローズドですが、正式版では Creative Commons BY-NC-SA になる予定です。
 
 ## Thanks to :
 - [alley_cats](http://news-from-nochet.blogspot.jp/2014/06/heroquest1.html)
