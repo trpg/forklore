@@ -27,7 +27,7 @@ _分岐スル物語_
   - アドオンによる拡張（ランダマイザ、エクステンション、アダプタ）
 
 ## License
-今のところクローズドですが、正式版では Creative Commons BY-NC-SA になる予定です。
+今のところクローズドですが、正式版では Creative Commons BY になる予定です。
 
 ## Thanks to :
 - [alley_cats](http://news-from-nochet.blogspot.jp/2014/06/heroquest1.html)
